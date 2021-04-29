@@ -1,3 +1,6 @@
 print()->
+printAll()->
 update()->
+DeleteAll()->
 delete()->
+UpdateAll()->
